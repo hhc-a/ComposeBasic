@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ComposeBasic</string>
+    <string name="author" translatable="false">Hola Ana</string>
 </resources>
